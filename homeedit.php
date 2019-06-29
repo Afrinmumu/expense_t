@@ -1,8 +1,6 @@
 <?php
 include("functions.php");
 
-// Script By Akash Mondal
-
 if(isloggedin()==FALSE)
 {
 header("location:index.php");  
