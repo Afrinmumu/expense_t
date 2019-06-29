@@ -2,7 +2,7 @@
 
 include("functions.php");
 
-// Script By Akash Mondal 
+
 
 if(isset($_POST['name']))
 {
